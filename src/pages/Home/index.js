@@ -35,7 +35,7 @@ class Home extends Component {
   };
 
   renderCard() {
-    return [].map((people, index) => {
+    return [{name: 'yoyoy'}].map((people, index) => {
       return (
         <Text
           key={ index }
