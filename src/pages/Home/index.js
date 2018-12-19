@@ -17,7 +17,7 @@ export default class Home extends Component {
     return (
       <View style={Styles.container}>
         <Header/>
-        <Content/>
+        <Content data={'PP'}/>
         <Footer/>
       </View>
     );

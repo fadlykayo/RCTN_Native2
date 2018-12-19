@@ -7,7 +7,7 @@ export default {
     height: 60,
     width: Ratio.screenWidth,
     padding: 20,
-    backgroundColor: 'blue',
+    backgroundColor: 'yellow',
     alignItems: 'center',
     justifyContent: 'center',
   },
